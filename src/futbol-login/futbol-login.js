@@ -107,7 +107,7 @@ class FutbolLogin extends LitElement {
 
 
     this.router
-      .on('pagea', () => {
+      .on('futbol-app', () => {
         this.route = html`
           <futbol-app></futbol-app>
         `
@@ -135,7 +135,7 @@ class FutbolLogin extends LitElement {
         if(xhr.status === 200){
             this.escribirUsuario(e.detail.email);
             this.loggedin=true;
-            this.router.navigate('pagea');
+            this.router.navigate('futbol-app');
         }
     }.bind(this);
 
