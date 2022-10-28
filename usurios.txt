@@ -1,0 +1,9 @@
+{
+  "email": "olivier@mail.com",
+  "password": "bestPassw0rd"
+}
+
+{
+  "email": "admin@mail.com",
+  "password": "weDidPassw0rd"
+}

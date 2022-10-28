@@ -1,0 +1,84 @@
+{
+  "miEquipo": [
+    {
+      "id": "BAR17",
+      "name": "M.Alonso",
+      "owner": "admin@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "DEF",
+      "precio": 12
+    },
+    {
+      "id": "BAR21",
+      "name": "F. de Jong",
+      "owner": "olivier@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "MED",
+      "precio": 60
+    },
+    {
+      "id": "BAR19",
+      "name": "K. Kessié",
+      "owner": "olivier@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "MED",
+      "precio": 45
+    },
+    {
+      "id": "BAR14",
+      "name": "M. Depay",
+      "owner": "admin@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "D",
+      "precio": 25
+    },
+    {
+      "id": "AT13",
+      "name": "Jan Oblack",
+      "owner": "admin@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "PO",
+      "precio": 40
+    },
+    {
+      "id": "AT1",
+      "name": "Ivo Grbic",
+      "owner": "admin@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "PO",
+      "precio": 3.5
+    },
+    {
+      "id": "AT2",
+      "name": "J. Gimenez",
+      "owner": "admin@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "DEF",
+      "precio": 45
+    },
+    {
+      "id": "AT22",
+      "name": "H. Hermoso",
+      "owner": "olivier@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "DEF",
+      "precio": 18
+    },
+    {
+      "id": "AT15",
+      "name": "S.Savic",
+      "owner": "olivier@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "DEF",
+      "precio": 14
+    },
+    {
+      "id": "AT18",
+      "name": "Felipe",
+      "owner": "olivier@mail.com",
+      "equipo": "Mi Equipo",
+      "posicion": "DEF",
+      "precio": 6
+    }
+  ]
+}

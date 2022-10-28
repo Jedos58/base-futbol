@@ -1,0 +1,536 @@
+{
+  "equipos": [
+    {
+      "id": "AT3",
+      "name": "S.Reguilon",
+      "equipo": "Atletico Madrid",
+      "posicion": "DEF",
+      "precio": 25
+    },
+    {
+      "id": "AT23",
+      "name": "R.Mandava",
+      "equipo": "Atletico Madrid",
+      "posicion": "DEF",
+      "precio": 25
+    },
+    {
+      "id": "AT16",
+      "name": "N. Molina",
+      "equipo": "Atletico Madrid",
+      "posicion": "DEF",
+      "precio": 20
+    },
+    {
+      "id": "AT4",
+      "name": "G.Kondogbia",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 20
+    },
+    {
+      "id": "AT20",
+      "name": "A.Witsel",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 5
+    },
+    {
+      "id": "AT14",
+      "name": "M.Llorente",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 40
+    },
+    {
+      "id": "AT5",
+      "name": "R. de Paul",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 35
+    },
+    {
+      "id": "AT6",
+      "name": "Koke",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 20
+    },
+    {
+      "id": "AT17",
+      "name": "S.Niguez",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 20
+    },
+    {
+      "id": "AT11",
+      "name": "T.Lemar",
+      "equipo": "Atletico Madrid",
+      "posicion": "MED",
+      "precio": 35
+    },
+    {
+      "id": "AT21",
+      "name": "Y.Carrasco",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 40
+    },
+    {
+      "id": "AT10",
+      "name": "A.Correa",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 40
+    },
+    {
+      "id": "AT7",
+      "name": "Joao Felix",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 70
+    },
+    {
+      "id": "AT8",
+      "name": "A. Griezmann",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 35
+    },
+    {
+      "id": "AT9",
+      "name": "Matheus Cunha",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 30
+    },
+    {
+      "id": "AT19",
+      "name": "A. Morata",
+      "equipo": "Atletico Madrid",
+      "posicion": "D",
+      "precio": 25
+    },
+    {
+      "id": "MAD1",
+      "name": "T. Courtois",
+      "equipo": "Real Madrid",
+      "posicion": "PO",
+      "precio": 60
+    },
+    {
+      "id": "MAD2",
+      "name": "D. Carvajal",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 18
+    },
+    {
+      "id": "MAD3",
+      "name": "É. Militão",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 60
+    },
+    {
+      "id": "MAD4",
+      "name": "D. Alaba",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 55
+    },
+    {
+      "id": "MAD5",
+      "name": "J. Vallejo",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 3
+    },
+    {
+      "id": "MAD6",
+      "name": "N. Fernández",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 7
+    },
+    {
+      "id": "MAD7",
+      "name": "E. Hazard",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 12
+    },
+    {
+      "id": "MAD8",
+      "name": "T. Kroos",
+      "equipo": "Real Madrid",
+      "posicion": "MED",
+      "precio": 20
+    },
+    {
+      "id": "MAD9",
+      "name": "K. Benzema",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 30
+    },
+    {
+      "id": "MAD11",
+      "name": "M. Asensio",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 35
+    },
+    {
+      "id": "MAD12",
+      "name": "E. Camavinga",
+      "equipo": "Real Madrid",
+      "posicion": "MED",
+      "precio": 55
+    },
+    {
+      "id": "MAD13",
+      "name": "A. Lunin",
+      "equipo": "Real Madrid",
+      "posicion": "PO",
+      "precio": 2.5
+    },
+    {
+      "id": "MAD15",
+      "name": "F. Valverde",
+      "equipo": "Real Madrid",
+      "posicion": "MED",
+      "precio": 80
+    },
+    {
+      "id": "MAD16",
+      "name": "Á. Odriozola",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 10
+    },
+    {
+      "id": "MAD17",
+      "name": "L. Vázquez",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 12
+    },
+    {
+      "id": "MAD18",
+      "name": "A. Tchouameni",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 80
+    },
+    {
+      "id": "MAD19",
+      "name": "D. Ceballos",
+      "equipo": "Real Madrid",
+      "posicion": "MED",
+      "precio": 14
+    },
+    {
+      "id": "MAD20",
+      "name": "V. Junior",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 120
+    },
+    {
+      "id": "MAD21",
+      "name": "R. Rodrygo",
+      "equipo": "Real Madrid",
+      "posicion": "D",
+      "precio": 70
+    },
+    {
+      "id": "MAD22",
+      "name": "A. Rüdiger",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 40
+    },
+    {
+      "id": "MAD23",
+      "name": "F. Mendy",
+      "equipo": "Real Madrid",
+      "posicion": "DEF",
+      "precio": 40
+    },
+    {
+      "id": "SEV13",
+      "name": "Bono",
+      "equipo": "Sevilla",
+      "posicion": "PO",
+      "precio": 18
+    },
+    {
+      "id": "SEV1",
+      "name": "Marko Dmitrović",
+      "equipo": "Sevilla",
+      "posicion": "PO",
+      "precio": 5
+    },
+    {
+      "id": "SEV14",
+      "name": "Tanguy Nianzou",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 9
+    },
+    {
+      "id": "SEV4",
+      "name": "Karim Rekik",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 5
+    },
+    {
+      "id": "SEV3",
+      "name": "Alex Telles",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 60
+    },
+    {
+      "id": "SEV19",
+      "name": "Marcos Acuña",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 18
+    },
+    {
+      "id": "SEV2",
+      "name": "Gonzalo Montiel",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 14
+    },
+    {
+      "id": "SEV30",
+      "name": "José Ángel Carmona",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 5
+    },
+    {
+      "id": "SEV16",
+      "name": "Jesús Navas",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 3
+    },
+    {
+      "id": "SEV6",
+      "name": "Nemanja Gudelj",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 4
+    },
+    {
+      "id": "SEV20",
+      "name": "Fernando",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 4
+    },
+    {
+      "id": "SEV8",
+      "name": "Joan Jordán",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 18
+    },
+    {
+      "id": "SEV21",
+      "name": "Óliver Torres",
+      "equipo": "Sevilla",
+      "posicion": "DEF",
+      "precio": 8
+    },
+    {
+      "id": "SEV10",
+      "name": "Ivan Rakitic",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 7
+    },
+    {
+      "id": "SEV18",
+      "name": "Thomas Delaney",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 7
+    },
+    {
+      "id": "SEV22",
+      "name": "Isco",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 7
+    },
+    {
+      "id": "SEV24",
+      "name": "Papu Gómez",
+      "equipo": "Sevilla",
+      "posicion": "MED",
+      "precio": 6
+    },
+    {
+      "id": "SEV9",
+      "name": "Tecatito",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 18
+    },
+    {
+      "id": "SEV17",
+      "name": "Erik Lamela",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 16
+    },
+    {
+      "id": "SEV7",
+      "name": "Suso",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 10
+    },
+    {
+      "id": "SEV15",
+      "name": "Adnan Januzaj",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 9
+    },
+    {
+      "id": "SEV5",
+      "name": "Youssef En-Nesyri",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 20
+    },
+    {
+      "id": "SEV12",
+      "name": "Kasper Dolberg",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 17
+    },
+    {
+      "id": "SEV11",
+      "name": "Rafa Mir",
+      "equipo": "Sevilla",
+      "posicion": "D",
+      "precio": 16
+    },
+    {
+      "id": "BAR3",
+      "name": "G.Piqué",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 3
+    },
+    {
+      "id": "BAR4",
+      "name": "R.Araújo",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 60
+    },
+    {
+      "id": "BAR5",
+      "name": "S. Busquets",
+      "equipo": "Agente Libre",
+      "posicion": "MED",
+      "precio": 9
+    },
+    {
+      "id": "BAR20",
+      "name": "S. Roberto",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 6
+    },
+    {
+      "id": "BAR2",
+      "name": "H.Bellerín",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 20
+    },
+    {
+      "id": "BAR30",
+      "name": "Gavi",
+      "equipo": "Agente Libre",
+      "posicion": "MED",
+      "precio": 70
+    },
+    {
+      "id": "BAR8",
+      "name": "Pedri",
+      "equipo": "Agente Libre",
+      "posicion": "MED",
+      "precio": 90
+    },
+    {
+      "id": "BAR28",
+      "name": "A. Balde",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 8
+    },
+    {
+      "id": "BAR18",
+      "name": "J. Alba",
+      "equipo": "Agente Libre",
+      "posicion": "DEF",
+      "precio": 9
+    },
+    {
+      "id": "BAR22",
+      "name": "Raphinha",
+      "equipo": "Agente Libre",
+      "posicion": "D",
+      "precio": 50
+    },
+    {
+      "id": "BAR7",
+      "name": "O.Dembéle",
+      "equipo": "Agente Libre",
+      "posicion": "D",
+      "precio": 50
+    },
+    {
+      "id": "BAR11",
+      "name": "F.Torres",
+      "equipo": "Agente Libre",
+      "posicion": "D",
+      "precio": 40
+    },
+    {
+      "id": "BAR10",
+      "name": "Ansu Fati",
+      "equipo": "Agente Libre",
+      "posicion": "D",
+      "precio": 60
+    },
+    {
+      "id": "BAR9",
+      "name": "R.Lewandowski",
+      "equipo": "Agente Libre",
+      "posicion": "D",
+      "precio": 45
+    },
+    {
+      "id": "BAR32",
+      "name": "P.Torre",
+      "equipo": "Agente Libre",
+      "posicion": "MED",
+      "precio": 3
+    }
+  ]
+}
